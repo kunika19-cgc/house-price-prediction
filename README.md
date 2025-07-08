@@ -1,2 +1,2 @@
 # house-price-prediction
-This is my first project on GitHub
+# This project aims to predict house prices using machine learning techniques. It involves gathering and preparing house price data, then building and training a model to predict prices based on various features like location, size, and amenities. The project's goal is to provide accurate price estimations for buyers, sellers, and investors, potentially increasing transparency and efficiency in the real estate market. 
